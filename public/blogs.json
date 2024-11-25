@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co.com/5rvDtbH/photo1.jpg",
+      "title": "The Art of Coding",
+      "author": "Alice Johnson",
+      "author_img": "https://i.ibb.co.com/wygZqXG/s1-cabinet.webp",
+      "posted_date": "2024-11-20",
+      "reading_time": 5,
+      "hashtags": ["#coding", "#development", "#programming"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co.com/bWyWfNx/6e638146-7982-4b54-8d1a-08f88c7b67d4.png",
+      "title": "Design Trends 2024",
+      "author": "Bob Smith",
+      "author_img": "https://i.ibb.co.com/4jSnfsc/istockphoto-184797262-612x612.jpg",
+      "posted_date": "2024-11-18",
+      "reading_time": 8,
+      "hashtags": ["#design", "#trends", "#UIUX"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co.com/WVQbkb6/OBFGBY0.jpg",
+      "title": "Mastering JavaScript",
+      "author": "Clara Lee",
+      "author_img": "https://i.ibb.co.com/JzxPxXf/beadd560-edcc-11ec-83e5-4505270ded9a.png",
+      "posted_date": "2024-11-15",
+      "reading_time": 10,
+      "hashtags": ["#JavaScript", "#webdevelopment", "#coding"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co.com/gj4cdF5/6408.jpg",
+      "title": "AI in Everyday Life",
+      "author": "Daniel Wright",
+      "author_img": "https://i.ibb.co.com/9bSCz1n/cae2b9e0-ebcb-11ec-a4d1-31bc8bfca00c.png",
+      "posted_date": "2024-11-10",
+      "reading_time": 7,
+      "hashtags": ["#AI", "#machinelearning", "#technology"]
+    }
+]
+
+
